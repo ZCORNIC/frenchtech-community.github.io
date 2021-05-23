@@ -1,0 +1,69 @@
+.Texte {
+    text-align: center;
+    font-size: x-large;
+}
+
+a.discord {
+    color: white;
+    font-weight: bold;
+    margin-left: 1%;
+    
+}
+
+a.insta {
+    
+    font-weight: bold;
+    margin-right: 1%;
+    color: white;
+}
+a.insta{
+  background-color: black;  
+color: white;
+}
+body {
+    font-size: x-large;
+}
+
+nav.menu ul li.btn {
+    list-style-type: none;
+}
+
+nav.menu ul li.btn {
+    display: inline-block;
+    font-weight: bold;
+    height: 30px;
+}
+h1.tech{
+    
+color: white;
+}
+
+    
+body{
+    text-align: center;
+    background-image: url(https://png.pngtree.com/thumb_back/fw800/background/20200107/pngtree-black-and-blue-background-image_326782.jpg);
+    text-align: center;
+}
+
+
+p.presentation{
+    
+color: white;
+}
+a{
+    color: white;
+}
+h1.ACTUS{
+    color: white;  
+}
+p.p{
+    color: white;  
+}
+h1.contact{
+    color: white;
+}
+
+    
+button.h{
+    background: black;
+}
